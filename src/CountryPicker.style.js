@@ -26,7 +26,7 @@ export default StyleSheet.create({
     marginLeft: getWidthPercent(15),
   },
   touchFlag: {
-    alignItems: 'center',
+    alignItems: 'flex-end',
     justifyContent: 'center',
   },
   imgStyle: {
